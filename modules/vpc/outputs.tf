@@ -35,7 +35,7 @@ output "nat_gateway_id" {
 
 # Outputs the ID of the main security group
 # Used when you need to add rules or associate with EC2 instances
-output "security_group_id" {
+output "default_security_group_id" {
   description = "ID of the security group"
   value       = aws_security_group.main.id
 }
@@ -74,3 +74,5 @@ output "internet_gateway_id" {
   description = "ID of the Internet Gateway"
   value       = aws_internet_gateway.main.id
 }
+
+

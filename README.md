@@ -433,3 +433,9 @@ Use VPC ID for security group configurations
 Reference route table IDs for custom route configurations
 
 Use Flow Log ID for monitoring setup
+
+
+understanding terraform information ChatGpt 
+https://chatgpt.com/share/68067e11-9e3c-8010-bcd6-c5f0787ccc5d
+use terraform documentation to support it 
+if you use amazon Q ask it to provide reference link. 
