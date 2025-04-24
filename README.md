@@ -1,6 +1,6 @@
 # aws_project
-# write doen what is contained in the modules 
-# paste every solutio  i get here 
+# write done  what is contained in the modules 
+# paste every solution  i get here 
 
 
 
